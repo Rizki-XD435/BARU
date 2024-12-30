@@ -1,6 +1,6 @@
 {
         'tomik_pler': datetime.datetime(2025, 1, 1),
-        'memek': datetime.datetime(2024, 12, 30),
+        'anak90an': datetime.datetime(2024, 12, 30),
         'conghadi': datetime.datetime(2024, 12, 31),
         'lisensi': datetime.datetime(2024, 12, 23),
         'lisnsi': datetime.datetime(2025, 1, 10),
