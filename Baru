@@ -1,5 +1,5 @@
 {
-        'sold1': datetime.datetime(2024, 12, 30),
+        'tomik-kintil': datetime.datetime(2025, 1, 1),
         'sold2': datetime.datetime(2024, 12, 30),
         'sold3': datetime.datetime(2024, 12, 30),
         'lisensi': datetime.datetime(2024, 12, 23),
